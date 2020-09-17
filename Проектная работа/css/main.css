@@ -1,0 +1,22 @@
+#home {
+	background-color: #000089;
+	text-align: center;
+	padding: 1%;
+}
+
+#text_center {
+	background-color: #221db8;
+	text-align: center;
+	padding: 1%;
+}
+
+#contact {
+	background-color: #000089;
+	text-align: center;
+	padding: 1%;
+}
+
+.input {
+	padding-left: 2%;
+
+}
